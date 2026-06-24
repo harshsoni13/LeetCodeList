@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/harshsoni13/LeetCodeList/tree/master/0303-range-sum-query-immutable) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshsoni13/LeetCodeList/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -26,4 +27,12 @@
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshsoni13/LeetCodeList/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/harshsoni13/LeetCodeList/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/harshsoni13/LeetCodeList/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
