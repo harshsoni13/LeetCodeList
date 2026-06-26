@@ -19,6 +19,7 @@
 | ------- |
 | [0015-3sum](https://github.com/harshsoni13/LeetCodeList/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/harshsoni13/LeetCodeList/tree/master/0042-trapping-rain-water) |
+| [0074-search-a-2d-matrix](https://github.com/harshsoni13/LeetCodeList/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/harshsoni13/LeetCodeList/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0268-missing-number) |
@@ -70,6 +71,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/harshsoni13/LeetCodeList/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harshsoni13/LeetCodeList/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshsoni13/LeetCodeList/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/harshsoni13/LeetCodeList/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
