@@ -19,6 +19,7 @@
 | ------- |
 | [0015-3sum](https://github.com/harshsoni13/LeetCodeList/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/harshsoni13/LeetCodeList/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/harshsoni13/LeetCodeList/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harshsoni13/LeetCodeList/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/harshsoni13/LeetCodeList/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0229-majority-element-ii) |
@@ -90,6 +91,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/harshsoni13/LeetCodeList/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshsoni13/LeetCodeList/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -106,5 +108,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/harshsoni13/LeetCodeList/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harshsoni13/LeetCodeList/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
