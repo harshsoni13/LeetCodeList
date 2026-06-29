@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/harshsoni13/LeetCodeList/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/harshsoni13/LeetCodeList/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/harshsoni13/LeetCodeList/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/harshsoni13/LeetCodeList/tree/master/0048-rotate-image) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshsoni13/LeetCodeList/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/harshsoni13/LeetCodeList/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshsoni13/LeetCodeList/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/harshsoni13/LeetCodeList/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/harshsoni13/LeetCodeList/tree/master/0125-valid-palindrome) |
@@ -139,4 +141,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshsoni13/LeetCodeList/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/harshsoni13/LeetCodeList/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
