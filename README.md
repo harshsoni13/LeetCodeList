@@ -28,6 +28,7 @@
 | [0229-majority-element-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/harshsoni13/LeetCodeList/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/harshsoni13/LeetCodeList/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/harshsoni13/LeetCodeList/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0724-find-pivot-index](https://github.com/harshsoni13/LeetCodeList/tree/master/0724-find-pivot-index) |
@@ -42,6 +43,7 @@
 | [0229-majority-element-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/harshsoni13/LeetCodeList/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/harshsoni13/LeetCodeList/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/harshsoni13/LeetCodeList/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshsoni13/LeetCodeList/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -80,6 +82,7 @@
 | [0229-majority-element-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/harshsoni13/LeetCodeList/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/harshsoni13/LeetCodeList/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/harshsoni13/LeetCodeList/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
@@ -93,6 +96,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/harshsoni13/LeetCodeList/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -154,4 +158,20 @@
 | ------- |
 | [0584-find-customer-referee](https://github.com/harshsoni13/LeetCodeList/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/harshsoni13/LeetCodeList/tree/master/1757-recyclable-and-low-fat-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/harshsoni13/LeetCodeList/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/harshsoni13/LeetCodeList/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/harshsoni13/LeetCodeList/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/harshsoni13/LeetCodeList/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
