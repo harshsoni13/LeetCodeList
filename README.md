@@ -100,6 +100,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/harshsoni13/LeetCodeList/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0268-missing-number) |
 ## Bit Manipulation
