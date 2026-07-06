@@ -88,6 +88,7 @@
 | [0347-top-k-frequent-elements](https://github.com/harshsoni13/LeetCodeList/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/harshsoni13/LeetCodeList/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0899-orderly-queue](https://github.com/harshsoni13/LeetCodeList/tree/master/0899-orderly-queue) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0012-integer-to-roman](https://github.com/harshsoni13/LeetCodeList/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/harshsoni13/LeetCodeList/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0268-missing-number) |
+| [0899-orderly-queue](https://github.com/harshsoni13/LeetCodeList/tree/master/0899-orderly-queue) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 | [0344-reverse-string](https://github.com/harshsoni13/LeetCodeList/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/harshsoni13/LeetCodeList/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/harshsoni13/LeetCodeList/tree/master/0459-repeated-substring-pattern) |
+| [0899-orderly-queue](https://github.com/harshsoni13/LeetCodeList/tree/master/0899-orderly-queue) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/harshsoni13/LeetCodeList/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String Matching
 |  |
