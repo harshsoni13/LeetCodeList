@@ -128,6 +128,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshsoni13/LeetCodeList/tree/master/0042-trapping-rain-water) |
+| [1544-make-the-string-great](https://github.com/harshsoni13/LeetCodeList/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -155,6 +156,7 @@
 | [0443-string-compression](https://github.com/harshsoni13/LeetCodeList/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/harshsoni13/LeetCodeList/tree/master/0459-repeated-substring-pattern) |
 | [0899-orderly-queue](https://github.com/harshsoni13/LeetCodeList/tree/master/0899-orderly-queue) |
+| [1544-make-the-string-great](https://github.com/harshsoni13/LeetCodeList/tree/master/1544-make-the-string-great) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/harshsoni13/LeetCodeList/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String Matching
 |  |
