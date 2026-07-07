@@ -158,6 +158,7 @@
 | [0344-reverse-string](https://github.com/harshsoni13/LeetCodeList/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/harshsoni13/LeetCodeList/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/harshsoni13/LeetCodeList/tree/master/0459-repeated-substring-pattern) |
+| [0520-detect-capital](https://github.com/harshsoni13/LeetCodeList/tree/master/0520-detect-capital) |
 | [0899-orderly-queue](https://github.com/harshsoni13/LeetCodeList/tree/master/0899-orderly-queue) |
 | [1544-make-the-string-great](https://github.com/harshsoni13/LeetCodeList/tree/master/1544-make-the-string-great) |
 | [1657-determine-if-two-strings-are-close](https://github.com/harshsoni13/LeetCodeList/tree/master/1657-determine-if-two-strings-are-close) |
