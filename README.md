@@ -33,6 +33,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0724-find-pivot-index](https://github.com/harshsoni13/LeetCodeList/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/harshsoni13/LeetCodeList/tree/master/0867-transpose-matrix) |
+| [0944-delete-columns-to-make-sorted](https://github.com/harshsoni13/LeetCodeList/tree/master/0944-delete-columns-to-make-sorted) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshsoni13/LeetCodeList/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshsoni13/LeetCodeList/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -160,6 +161,7 @@
 | [0459-repeated-substring-pattern](https://github.com/harshsoni13/LeetCodeList/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/harshsoni13/LeetCodeList/tree/master/0520-detect-capital) |
 | [0899-orderly-queue](https://github.com/harshsoni13/LeetCodeList/tree/master/0899-orderly-queue) |
+| [0944-delete-columns-to-make-sorted](https://github.com/harshsoni13/LeetCodeList/tree/master/0944-delete-columns-to-make-sorted) |
 | [1544-make-the-string-great](https://github.com/harshsoni13/LeetCodeList/tree/master/1544-make-the-string-great) |
 | [1657-determine-if-two-strings-are-close](https://github.com/harshsoni13/LeetCodeList/tree/master/1657-determine-if-two-strings-are-close) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/harshsoni13/LeetCodeList/tree/master/1832-check-if-the-sentence-is-pangram) |
