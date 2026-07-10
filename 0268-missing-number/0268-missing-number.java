@@ -5,9 +5,10 @@ class Solution {
      int xor2=0;
     for(int i=0;i<n;i++){
         xor1^=nums[i];
+    }
+    for(int i=0;i<=n;i++){
         xor2^=i;
     }
-    xor2^=n;
     return xor1^xor2;
     }
 }
