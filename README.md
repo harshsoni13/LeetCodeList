@@ -116,6 +116,7 @@
 | [0009-palindrome-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/harshsoni13/LeetCodeList/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/harshsoni13/LeetCodeList/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/harshsoni13/LeetCodeList/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0268-missing-number) |
 | [0899-orderly-queue](https://github.com/harshsoni13/LeetCodeList/tree/master/0899-orderly-queue) |
 ## Bit Manipulation
@@ -124,6 +125,7 @@
 | [0136-single-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/harshsoni13/LeetCodeList/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/harshsoni13/LeetCodeList/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/harshsoni13/LeetCodeList/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/harshsoni13/LeetCodeList/tree/master/0338-counting-bits) |
@@ -213,4 +215,8 @@
 |  |
 | ------- |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/harshsoni13/LeetCodeList/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/harshsoni13/LeetCodeList/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
