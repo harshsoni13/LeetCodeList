@@ -125,6 +125,7 @@
 | [0137-single-number-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/harshsoni13/LeetCodeList/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/harshsoni13/LeetCodeList/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshsoni13/LeetCodeList/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/harshsoni13/LeetCodeList/tree/master/0042-trapping-rain-water) |
+| [0338-counting-bits](https://github.com/harshsoni13/LeetCodeList/tree/master/0338-counting-bits) |
 ## Stack
 |  |
 | ------- |
