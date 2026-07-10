@@ -123,6 +123,7 @@
 | ------- |
 | [0136-single-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/harshsoni13/LeetCodeList/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/harshsoni13/LeetCodeList/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/harshsoni13/LeetCodeList/tree/master/0338-counting-bits) |
@@ -194,6 +195,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/harshsoni13/LeetCodeList/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/harshsoni13/LeetCodeList/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
