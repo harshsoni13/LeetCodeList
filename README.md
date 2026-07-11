@@ -75,6 +75,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshsoni13/LeetCodeList/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/harshsoni13/LeetCodeList/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/harshsoni13/LeetCodeList/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/harshsoni13/LeetCodeList/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/harshsoni13/LeetCodeList/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/harshsoni13/LeetCodeList/tree/master/0349-intersection-of-two-arrays) |
@@ -223,5 +224,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0206-reverse-linked-list](https://github.com/harshsoni13/LeetCodeList/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
