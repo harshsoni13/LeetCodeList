@@ -219,11 +219,13 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/harshsoni13/LeetCodeList/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/harshsoni13/LeetCodeList/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/harshsoni13/LeetCodeList/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0203-remove-linked-list-elements](https://github.com/harshsoni13/LeetCodeList/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/harshsoni13/LeetCodeList/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
