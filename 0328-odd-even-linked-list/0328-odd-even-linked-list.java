@@ -14,22 +14,16 @@ class Solution {
       if(head==null || head.next==null){
         return head;
       }
-       ListNode prev= head;
-      ListNode curr=head.next;
-      ListNode head2=curr;
-      int i=0;
-      while(curr!=null && curr.next!=null){
-        i++;
-        prev.next=curr.next;
-        prev=curr;
-        curr=curr.next;
+       ListNode odd= head;
+      ListNode even=head.next;
+      ListNode head2=even;
+      while(even!=null && even.next!=null){
+        odd.next=even.next;
+        even.next=even.next.next;
+        odd=odd.next;
+        even=even.next;
       }
-      if(i%2==1){
-        curr.next=head2;
-        prev.next=null;
+      odd.next=head2;
+      return head;
       }
-      else{
-        prev.next=head2;
-      }
-      return head;}
 }
