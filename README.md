@@ -126,6 +126,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harshsoni13/LeetCodeList/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/harshsoni13/LeetCodeList/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/harshsoni13/LeetCodeList/tree/master/0048-rotate-image) |
@@ -233,6 +234,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harshsoni13/LeetCodeList/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/harshsoni13/LeetCodeList/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/harshsoni13/LeetCodeList/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/harshsoni13/LeetCodeList/tree/master/0143-reorder-list) |
@@ -243,6 +245,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harshsoni13/LeetCodeList/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshsoni13/LeetCodeList/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/harshsoni13/LeetCodeList/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/harshsoni13/LeetCodeList/tree/master/0024-swap-nodes-in-pairs) |
