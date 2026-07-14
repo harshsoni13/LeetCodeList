@@ -45,6 +45,7 @@
 | [0012-integer-to-roman](https://github.com/harshsoni13/LeetCodeList/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/harshsoni13/LeetCodeList/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/harshsoni13/LeetCodeList/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshsoni13/LeetCodeList/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/harshsoni13/LeetCodeList/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0229-majority-element-ii) |
@@ -83,6 +84,7 @@
 | [0086-partition-list](https://github.com/harshsoni13/LeetCodeList/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/harshsoni13/LeetCodeList/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/harshsoni13/LeetCodeList/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/harshsoni13/LeetCodeList/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshsoni13/LeetCodeList/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/harshsoni13/LeetCodeList/tree/master/0234-palindrome-linked-list) |
@@ -246,6 +248,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/harshsoni13/LeetCodeList/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/harshsoni13/LeetCodeList/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/harshsoni13/LeetCodeList/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshsoni13/LeetCodeList/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/harshsoni13/LeetCodeList/tree/master/0203-remove-linked-list-elements) |
