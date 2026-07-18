@@ -68,6 +68,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/harshsoni13/LeetCodeList/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/harshsoni13/LeetCodeList/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -166,6 +167,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshsoni13/LeetCodeList/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/harshsoni13/LeetCodeList/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/harshsoni13/LeetCodeList/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/harshsoni13/LeetCodeList/tree/master/0234-palindrome-linked-list) |
 | [1544-make-the-string-great](https://github.com/harshsoni13/LeetCodeList/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
