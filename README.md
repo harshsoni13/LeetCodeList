@@ -36,6 +36,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/harshsoni13/LeetCodeList/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0724-find-pivot-index](https://github.com/harshsoni13/LeetCodeList/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/harshsoni13/LeetCodeList/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/harshsoni13/LeetCodeList/tree/master/0867-transpose-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/harshsoni13/LeetCodeList/tree/master/0944-delete-columns-to-make-sorted) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshsoni13/LeetCodeList/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -172,11 +173,13 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshsoni13/LeetCodeList/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/harshsoni13/LeetCodeList/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/harshsoni13/LeetCodeList/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/harshsoni13/LeetCodeList/tree/master/0739-daily-temperatures) |
 | [1544-make-the-string-great](https://github.com/harshsoni13/LeetCodeList/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshsoni13/LeetCodeList/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/harshsoni13/LeetCodeList/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
 | ------- |
