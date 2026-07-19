@@ -35,6 +35,7 @@
 | [0347-top-k-frequent-elements](https://github.com/harshsoni13/LeetCodeList/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/harshsoni13/LeetCodeList/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/harshsoni13/LeetCodeList/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/harshsoni13/LeetCodeList/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/harshsoni13/LeetCodeList/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/harshsoni13/LeetCodeList/tree/master/0867-transpose-matrix) |
@@ -58,6 +59,7 @@
 | [0347-top-k-frequent-elements](https://github.com/harshsoni13/LeetCodeList/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/harshsoni13/LeetCodeList/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/harshsoni13/LeetCodeList/tree/master/0496-next-greater-element-i) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/harshsoni13/LeetCodeList/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1657-determine-if-two-strings-are-close](https://github.com/harshsoni13/LeetCodeList/tree/master/1657-determine-if-two-strings-are-close) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/harshsoni13/LeetCodeList/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -173,12 +175,14 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshsoni13/LeetCodeList/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/harshsoni13/LeetCodeList/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/harshsoni13/LeetCodeList/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/harshsoni13/LeetCodeList/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/harshsoni13/LeetCodeList/tree/master/0739-daily-temperatures) |
 | [1544-make-the-string-great](https://github.com/harshsoni13/LeetCodeList/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshsoni13/LeetCodeList/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/harshsoni13/LeetCodeList/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/harshsoni13/LeetCodeList/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
