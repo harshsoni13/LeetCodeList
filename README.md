@@ -171,6 +171,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshsoni13/LeetCodeList/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/harshsoni13/LeetCodeList/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/harshsoni13/LeetCodeList/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshsoni13/LeetCodeList/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/harshsoni13/LeetCodeList/tree/master/0155-min-stack) |
@@ -200,6 +201,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshsoni13/LeetCodeList/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/harshsoni13/LeetCodeList/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/harshsoni13/LeetCodeList/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/harshsoni13/LeetCodeList/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/harshsoni13/LeetCodeList/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/harshsoni13/LeetCodeList/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/harshsoni13/LeetCodeList/tree/master/0242-valid-anagram) |
