@@ -129,6 +129,7 @@
 | [0899-orderly-queue](https://github.com/harshsoni13/LeetCodeList/tree/master/0899-orderly-queue) |
 | [1657-determine-if-two-strings-are-close](https://github.com/harshsoni13/LeetCodeList/tree/master/1657-determine-if-two-strings-are-close) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/harshsoni13/LeetCodeList/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3536-maximum-product-of-two-digits](https://github.com/harshsoni13/LeetCodeList/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [0268-missing-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0509-fibonacci-number) |
 | [0899-orderly-queue](https://github.com/harshsoni13/LeetCodeList/tree/master/0899-orderly-queue) |
+| [3536-maximum-product-of-two-digits](https://github.com/harshsoni13/LeetCodeList/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
