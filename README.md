@@ -19,6 +19,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harshsoni13/LeetCodeList/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/harshsoni13/LeetCodeList/tree/master/0015-3sum) |
+| [0037-sudoku-solver](https://github.com/harshsoni13/LeetCodeList/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/harshsoni13/LeetCodeList/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/harshsoni13/LeetCodeList/tree/master/0042-trapping-rain-water) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/harshsoni13/LeetCodeList/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/harshsoni13/LeetCodeList/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/harshsoni13/LeetCodeList/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/harshsoni13/LeetCodeList/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/harshsoni13/LeetCodeList/tree/master/0141-linked-list-cycle) |
@@ -212,6 +214,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/harshsoni13/LeetCodeList/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/harshsoni13/LeetCodeList/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harshsoni13/LeetCodeList/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harshsoni13/LeetCodeList/tree/master/0074-search-a-2d-matrix) |
@@ -337,6 +340,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/harshsoni13/LeetCodeList/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/harshsoni13/LeetCodeList/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/harshsoni13/LeetCodeList/tree/master/0051-n-queens) |
@@ -346,5 +350,10 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/harshsoni13/LeetCodeList/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/harshsoni13/LeetCodeList/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/harshsoni13/LeetCodeList/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
