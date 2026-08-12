@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/harshsoni13/LeetCodeList/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/harshsoni13/LeetCodeList/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/harshsoni13/LeetCodeList/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/harshsoni13/LeetCodeList/tree/master/0144-binary-tree-preorder-traversal) |
 ## Array
 |  |
 | ------- |
@@ -196,6 +198,7 @@
 | [0071-simplify-path](https://github.com/harshsoni13/LeetCodeList/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshsoni13/LeetCodeList/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/harshsoni13/LeetCodeList/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/harshsoni13/LeetCodeList/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshsoni13/LeetCodeList/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/harshsoni13/LeetCodeList/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/harshsoni13/LeetCodeList/tree/master/0225-implement-stack-using-queues) |
@@ -356,4 +359,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/harshsoni13/LeetCodeList/tree/master/0037-sudoku-solver) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/harshsoni13/LeetCodeList/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
