@@ -15,6 +15,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/harshsoni13/LeetCodeList/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/harshsoni13/LeetCodeList/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/harshsoni13/LeetCodeList/tree/master/0513-find-bottom-left-tree-value) |
+| [0623-add-one-row-to-tree](https://github.com/harshsoni13/LeetCodeList/tree/master/0623-add-one-row-to-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0112-path-sum](https://github.com/harshsoni13/LeetCodeList/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/harshsoni13/LeetCodeList/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/harshsoni13/LeetCodeList/tree/master/0513-find-bottom-left-tree-value) |
+| [0623-add-one-row-to-tree](https://github.com/harshsoni13/LeetCodeList/tree/master/0623-add-one-row-to-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -38,6 +40,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/harshsoni13/LeetCodeList/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/harshsoni13/LeetCodeList/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/harshsoni13/LeetCodeList/tree/master/0513-find-bottom-left-tree-value) |
+| [0623-add-one-row-to-tree](https://github.com/harshsoni13/LeetCodeList/tree/master/0623-add-one-row-to-tree) |
 ## Array
 |  |
 | ------- |
@@ -394,4 +397,5 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/harshsoni13/LeetCodeList/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/harshsoni13/LeetCodeList/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/harshsoni13/LeetCodeList/tree/master/0513-find-bottom-left-tree-value) |
+| [0623-add-one-row-to-tree](https://github.com/harshsoni13/LeetCodeList/tree/master/0623-add-one-row-to-tree) |
 <!---LeetCode Topics End-->
