@@ -68,6 +68,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/harshsoni13/LeetCodeList/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/harshsoni13/LeetCodeList/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harshsoni13/LeetCodeList/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshsoni13/LeetCodeList/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -231,6 +232,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshsoni13/LeetCodeList/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/harshsoni13/LeetCodeList/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harshsoni13/LeetCodeList/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/harshsoni13/LeetCodeList/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0509-fibonacci-number) |
 ## Stack
