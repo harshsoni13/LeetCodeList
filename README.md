@@ -57,6 +57,7 @@
 | [0039-combination-sum](https://github.com/harshsoni13/LeetCodeList/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/harshsoni13/LeetCodeList/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/harshsoni13/LeetCodeList/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/harshsoni13/LeetCodeList/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/harshsoni13/LeetCodeList/tree/master/0051-n-queens) |
@@ -235,6 +236,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshsoni13/LeetCodeList/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/harshsoni13/LeetCodeList/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/harshsoni13/LeetCodeList/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/harshsoni13/LeetCodeList/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshsoni13/LeetCodeList/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -433,6 +435,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/harshsoni13/LeetCodeList/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
