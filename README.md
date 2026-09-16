@@ -82,6 +82,7 @@
 | [0239-sliding-window-maximum](https://github.com/harshsoni13/LeetCodeList/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/harshsoni13/LeetCodeList/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/harshsoni13/LeetCodeList/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/harshsoni13/LeetCodeList/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/harshsoni13/LeetCodeList/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/harshsoni13/LeetCodeList/tree/master/0349-intersection-of-two-arrays) |
@@ -177,6 +178,7 @@
 | [0229-majority-element-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/harshsoni13/LeetCodeList/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/harshsoni13/LeetCodeList/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/harshsoni13/LeetCodeList/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/harshsoni13/LeetCodeList/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -438,4 +440,8 @@
 | [0045-jump-game-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/harshsoni13/LeetCodeList/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/harshsoni13/LeetCodeList/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
