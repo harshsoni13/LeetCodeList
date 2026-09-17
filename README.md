@@ -79,6 +79,7 @@
 | [0189-rotate-array](https://github.com/harshsoni13/LeetCodeList/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/harshsoni13/LeetCodeList/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/harshsoni13/LeetCodeList/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/harshsoni13/LeetCodeList/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/harshsoni13/LeetCodeList/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0268-missing-number) |
@@ -134,6 +135,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/harshsoni13/LeetCodeList/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/harshsoni13/LeetCodeList/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/harshsoni13/LeetCodeList/tree/master/0724-find-pivot-index) |
 ## Two Pointers
