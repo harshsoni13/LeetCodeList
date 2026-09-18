@@ -1,25 +1,21 @@
 class Solution {
-    public boolean compare(String s,String b,int i){
-        int n=s.length();
-        int m=b.length();
-       for(int j=0;j<m;j++){
-        if(i>=n) return false;
-        if(s.charAt(i++)!=b.charAt(j)){
-            return false;
-        }
-       }
-       return true;}
     public int strStr(String haystack, String needle) {
         int n=haystack.length();
         int m=needle.length();
-        for(int i=0;i<n;i++){
-            if(haystack.charAt(i)==needle.charAt(0)){
-                if(compare(haystack,needle,i)==true){
-                    return i;
-                }
+          if(n<m){
+            return -1;
+          }
+          if(m==0){
+            return 0;
+          }
+          for(int i=0;i<=n-m;i++){
+            int j=0;
+            while(j<m && haystack.charAt(i+j)==needle.charAt(j)){
+                j++;
             }
-        }
-     
-     return -1;   
-    }
-}
+            if(j==m){
+                return i;
+            }
+          }
+          return -1;}}
+          
