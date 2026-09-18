@@ -293,6 +293,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshsoni13/LeetCodeList/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/harshsoni13/LeetCodeList/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/harshsoni13/LeetCodeList/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/harshsoni13/LeetCodeList/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/harshsoni13/LeetCodeList/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/harshsoni13/LeetCodeList/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/harshsoni13/LeetCodeList/tree/master/0205-isomorphic-strings) |
