@@ -73,6 +73,7 @@
 | [0090-subsets-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshsoni13/LeetCodeList/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/harshsoni13/LeetCodeList/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshsoni13/LeetCodeList/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -447,6 +448,7 @@
 | [0045-jump-game-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/harshsoni13/LeetCodeList/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/harshsoni13/LeetCodeList/tree/master/0135-candy) |
 ## Counting Sort
 |  |
 | ------- |
