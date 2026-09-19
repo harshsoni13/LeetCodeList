@@ -166,6 +166,7 @@
 | [0344-reverse-string](https://github.com/harshsoni13/LeetCodeList/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/harshsoni13/LeetCodeList/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/harshsoni13/LeetCodeList/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/harshsoni13/LeetCodeList/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/harshsoni13/LeetCodeList/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/harshsoni13/LeetCodeList/tree/master/0876-middle-of-the-linked-list) |
@@ -249,6 +250,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshsoni13/LeetCodeList/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/harshsoni13/LeetCodeList/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/harshsoni13/LeetCodeList/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -301,6 +303,7 @@
 | [0205-isomorphic-strings](https://github.com/harshsoni13/LeetCodeList/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/harshsoni13/LeetCodeList/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/harshsoni13/LeetCodeList/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/harshsoni13/LeetCodeList/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/harshsoni13/LeetCodeList/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/harshsoni13/LeetCodeList/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/harshsoni13/LeetCodeList/tree/master/0520-detect-capital) |
