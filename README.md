@@ -80,6 +80,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshsoni13/LeetCodeList/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshsoni13/LeetCodeList/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/harshsoni13/LeetCodeList/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/harshsoni13/LeetCodeList/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/harshsoni13/LeetCodeList/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/harshsoni13/LeetCodeList/tree/master/0238-product-of-array-except-self) |
@@ -127,6 +128,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/harshsoni13/LeetCodeList/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/harshsoni13/LeetCodeList/tree/master/0239-sliding-window-maximum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshsoni13/LeetCodeList/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Design
@@ -139,6 +141,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/harshsoni13/LeetCodeList/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/harshsoni13/LeetCodeList/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/harshsoni13/LeetCodeList/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/harshsoni13/LeetCodeList/tree/master/0724-find-pivot-index) |
@@ -200,6 +203,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/harshsoni13/LeetCodeList/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshsoni13/LeetCodeList/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/harshsoni13/LeetCodeList/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harshsoni13/LeetCodeList/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0350-intersection-of-two-arrays-ii) |
