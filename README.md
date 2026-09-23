@@ -65,6 +65,7 @@
 | [0054-spiral-matrix](https://github.com/harshsoni13/LeetCodeList/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/harshsoni13/LeetCodeList/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/harshsoni13/LeetCodeList/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/harshsoni13/LeetCodeList/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/harshsoni13/LeetCodeList/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/harshsoni13/LeetCodeList/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/harshsoni13/LeetCodeList/tree/master/0078-subsets) |
@@ -109,6 +110,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/harshsoni13/LeetCodeList/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/harshsoni13/LeetCodeList/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/harshsoni13/LeetCodeList/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/harshsoni13/LeetCodeList/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/harshsoni13/LeetCodeList/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0142-linked-list-cycle-ii) |
@@ -294,6 +296,7 @@
 | [0048-rotate-image](https://github.com/harshsoni13/LeetCodeList/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harshsoni13/LeetCodeList/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/harshsoni13/LeetCodeList/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/harshsoni13/LeetCodeList/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/harshsoni13/LeetCodeList/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/harshsoni13/LeetCodeList/tree/master/0867-transpose-matrix) |
 ## String
