@@ -123,6 +123,7 @@
 | [0347-top-k-frequent-elements](https://github.com/harshsoni13/LeetCodeList/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/harshsoni13/LeetCodeList/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/harshsoni13/LeetCodeList/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/harshsoni13/LeetCodeList/tree/master/0496-next-greater-element-i) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/harshsoni13/LeetCodeList/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1657-determine-if-two-strings-are-close](https://github.com/harshsoni13/LeetCodeList/tree/master/1657-determine-if-two-strings-are-close) |
@@ -217,6 +218,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/harshsoni13/LeetCodeList/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/harshsoni13/LeetCodeList/tree/master/0383-ransom-note) |
 | [1657-determine-if-two-strings-are-close](https://github.com/harshsoni13/LeetCodeList/tree/master/1657-determine-if-two-strings-are-close) |
 ## Math
 |  |
@@ -321,6 +323,7 @@
 | [0205-isomorphic-strings](https://github.com/harshsoni13/LeetCodeList/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/harshsoni13/LeetCodeList/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/harshsoni13/LeetCodeList/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/harshsoni13/LeetCodeList/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/harshsoni13/LeetCodeList/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/harshsoni13/LeetCodeList/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/harshsoni13/LeetCodeList/tree/master/0459-repeated-substring-pattern) |
