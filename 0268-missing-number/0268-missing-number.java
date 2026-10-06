@@ -6,7 +6,7 @@ class Solution {
     for(int i=0;i<n;i++){
         xor1^=nums[i];
     }
-    for(int i=0;i<=n;i++){
+    for(int i=1;i<=n;i++){
         xor2^=i;
     }
     return xor1^xor2;
