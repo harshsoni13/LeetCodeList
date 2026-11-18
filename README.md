@@ -101,6 +101,7 @@
 | [0867-transpose-matrix](https://github.com/harshsoni13/LeetCodeList/tree/master/0867-transpose-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/harshsoni13/LeetCodeList/tree/master/0944-delete-columns-to-make-sorted) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshsoni13/LeetCodeList/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/harshsoni13/LeetCodeList/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshsoni13/LeetCodeList/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/harshsoni13/LeetCodeList/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
@@ -204,6 +205,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0899-orderly-queue](https://github.com/harshsoni13/LeetCodeList/tree/master/0899-orderly-queue) |
 | [1657-determine-if-two-strings-are-close](https://github.com/harshsoni13/LeetCodeList/tree/master/1657-determine-if-two-strings-are-close) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/harshsoni13/LeetCodeList/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/harshsoni13/LeetCodeList/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshsoni13/LeetCodeList/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
@@ -238,6 +240,7 @@
 | [0268-missing-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0509-fibonacci-number) |
 | [0899-orderly-queue](https://github.com/harshsoni13/LeetCodeList/tree/master/0899-orderly-queue) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/harshsoni13/LeetCodeList/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshsoni13/LeetCodeList/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -495,4 +498,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshsoni13/LeetCodeList/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/harshsoni13/LeetCodeList/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+## Number Theory
+|  |
+| ------- |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/harshsoni13/LeetCodeList/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 <!---LeetCode Topics End-->
