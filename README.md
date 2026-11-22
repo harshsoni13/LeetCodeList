@@ -179,6 +179,7 @@
 | [0189-rotate-array](https://github.com/harshsoni13/LeetCodeList/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/harshsoni13/LeetCodeList/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/harshsoni13/LeetCodeList/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/harshsoni13/LeetCodeList/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/harshsoni13/LeetCodeList/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/harshsoni13/LeetCodeList/tree/master/0392-is-subsequence) |
@@ -328,6 +329,7 @@
 | [0205-isomorphic-strings](https://github.com/harshsoni13/LeetCodeList/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/harshsoni13/LeetCodeList/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/harshsoni13/LeetCodeList/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/harshsoni13/LeetCodeList/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/harshsoni13/LeetCodeList/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/harshsoni13/LeetCodeList/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/harshsoni13/LeetCodeList/tree/master/0443-string-compression) |
