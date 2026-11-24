@@ -97,6 +97,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/harshsoni13/LeetCodeList/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshsoni13/LeetCodeList/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/harshsoni13/LeetCodeList/tree/master/0496-next-greater-element-i) |
+| [0643-maximum-average-subarray-i](https://github.com/harshsoni13/LeetCodeList/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/harshsoni13/LeetCodeList/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/harshsoni13/LeetCodeList/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/harshsoni13/LeetCodeList/tree/master/0867-transpose-matrix) |
@@ -140,6 +141,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshsoni13/LeetCodeList/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshsoni13/LeetCodeList/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/harshsoni13/LeetCodeList/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/harshsoni13/LeetCodeList/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshsoni13/LeetCodeList/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Design
 |  |
