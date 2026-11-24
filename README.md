@@ -102,6 +102,7 @@
 | [0739-daily-temperatures](https://github.com/harshsoni13/LeetCodeList/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/harshsoni13/LeetCodeList/tree/master/0867-transpose-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/harshsoni13/LeetCodeList/tree/master/0944-delete-columns-to-make-sorted) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harshsoni13/LeetCodeList/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshsoni13/LeetCodeList/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/harshsoni13/LeetCodeList/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshsoni13/LeetCodeList/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -142,6 +143,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/harshsoni13/LeetCodeList/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/harshsoni13/LeetCodeList/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/harshsoni13/LeetCodeList/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harshsoni13/LeetCodeList/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshsoni13/LeetCodeList/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Design
 |  |
