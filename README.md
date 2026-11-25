@@ -144,6 +144,7 @@
 | [0239-sliding-window-maximum](https://github.com/harshsoni13/LeetCodeList/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/harshsoni13/LeetCodeList/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harshsoni13/LeetCodeList/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/harshsoni13/LeetCodeList/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshsoni13/LeetCodeList/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Design
 |  |
@@ -247,6 +248,7 @@
 | [0268-missing-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/harshsoni13/LeetCodeList/tree/master/0509-fibonacci-number) |
 | [0899-orderly-queue](https://github.com/harshsoni13/LeetCodeList/tree/master/0899-orderly-queue) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/harshsoni13/LeetCodeList/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/harshsoni13/LeetCodeList/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshsoni13/LeetCodeList/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
@@ -347,6 +349,7 @@
 | [1544-make-the-string-great](https://github.com/harshsoni13/LeetCodeList/tree/master/1544-make-the-string-great) |
 | [1657-determine-if-two-strings-are-close](https://github.com/harshsoni13/LeetCodeList/tree/master/1657-determine-if-two-strings-are-close) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/harshsoni13/LeetCodeList/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/harshsoni13/LeetCodeList/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/harshsoni13/LeetCodeList/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String Matching
 |  |
